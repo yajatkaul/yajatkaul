@@ -103,7 +103,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://drive.google.com/file/d/1Cktp1akvNATqF9CdxKQnFVpvNkcFqoLE/view?usp=sharing" height="40" alt="tailwind logo"  />
+  <img src="https://i.ibb.co/4tGV53B/Untitled.png" height="40" alt="tailwind logo"  />
 </div>
 
 ###
