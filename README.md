@@ -136,6 +136,8 @@
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
 
 ###
