@@ -138,6 +138,8 @@
   <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
 </div>
 
 ###
