@@ -2,7 +2,6 @@
 
 ###
 
-<h4 align="left">Socials:</h4>
 
 ###
 
@@ -10,17 +9,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://discord.gg/UznmC8sN65" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UC1D92zvI46h7eTWGSZ3UK6g" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/_yajat.kaul_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+
 
 ###
 
