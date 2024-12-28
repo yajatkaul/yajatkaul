@@ -15,12 +15,6 @@
 
 <img src="https://raw.githubusercontent.com/yajatkaul/yajatkaul/output/snake.svg" alt="Snake animation" />
 
-###
-
-<h1 align="left">Tech Used</h1>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="tauri logo"  />
   <img width="12" />
