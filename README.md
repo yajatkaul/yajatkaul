@@ -3,11 +3,6 @@
 ###
 
 
-###
-
-<img align="right" height="200" src="https://media1.tenor.com/m/pQ9jr5TqhUEAAAAd/mash-mash-burnedead.gif"  />
-
-###
 
 
 
