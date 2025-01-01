@@ -119,9 +119,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=deno" height="40" alt="denojs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=actix" height="40" alt="actix logo"  />
+
 </div>
 
 ###
