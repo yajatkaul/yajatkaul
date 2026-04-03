@@ -66,6 +66,9 @@
   <a href="https://www.linkedin.com/in/yajat-kaul/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Yajat%20Kaul-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://yajatkaul.gt.tc/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-yajatkaul.gt.tc-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
