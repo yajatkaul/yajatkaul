@@ -1,6 +1,6 @@
 <div align="left">
 
-<h1>Hello!!!!</h1>
+<h1>0x7C00</h1>
 
 <p>
   <strong>Full-Stack Developer • AI/ML Engineer • System Builder</strong>
@@ -48,18 +48,12 @@
 
 </div>
 
-<br clear="right"/>
-
----
-
 ## 🚀 About Me
 - 🔭 Building **Full-stack applications, AI/ML systems & game/mod architectures**
 - ⚙️ Focused on **performance, scalability & clean code**
 - 🧠 Working with **PyTorch models & real-world datasets**
 - ☁️ Exploring **Cloud, DevOps & distributed systems**
 - 🎯 Goal: Build **scalable and impactful products**
-
----
 
 ## 🌐 Connect With Me
 <p>
